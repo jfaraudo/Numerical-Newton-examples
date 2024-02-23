@@ -1,6 +1,6 @@
 # -------------------------------------------------------
 # NUMERICAL SOLUTION NEWTON EQUATIONS OF MOTION
-# VELOCITY VERLET METHOD
+# VELOCITY VERLE METHOD
 # April 2020 Python3 version 
 # 
 # Very simple example with Harmonic oscillator
