@@ -41,6 +41,7 @@ t = np.zeros(ntot+1)
 #Initial conditions
 t[0] = 0.0
 x[0] = x0
+y[0] = y0
 vx[0] = vx0
 vy[0] = vy0
 
